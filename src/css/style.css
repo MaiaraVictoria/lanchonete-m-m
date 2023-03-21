@@ -26,6 +26,7 @@ main::after{
 
 
 .informacoes .logo{
+    top: 0;
    max-width: 198px;
    filter: invert(1);
    margin-bottom: 70px;
@@ -36,13 +37,13 @@ main::after{
 .informacoes .descricao{
     width: 45%;
     
-    font-size: 20px;
+    font-size: 19px;
     color: rgb(225, 228, 20);
     margin-left: 33px;
      position: absolute;
-     top: 0;
-     right: 0;
-     margin: 20px;
+     top: -20;
+     
+     margin: 8px;
    
 
 }
