@@ -35,7 +35,7 @@ main::after{
 
 .informacoes .descricao{
     width: 45%;
-    height: 45%;
+    height: 90%;
     font-size: 20px;
     color: rgb(225, 228, 20);
     margin-left: 33px;
