@@ -37,13 +37,12 @@ main::after{
 .informacoes .descricao{
     width: 45%;
     
-    font-size: 19px;
+    font-size: 20px;
     color: rgb(225, 228, 20);
     margin-left: 33px;
      position: absolute;
-     top: -20;
-     
-     margin: 8px;
+     bottom: -20px;
+     left: 0;
    
 
 }
