@@ -2,7 +2,7 @@ body{
     font-family: 'Poppins', sans-serif;
     max-width: 1900px;
     margin: 0px;
-    border-radius: 100px;
+    border-radius: 100%;
 }
 
 main::after{
@@ -30,8 +30,8 @@ main::after{
    
    max-width: 198px;
    filter: invert(1);
-   margin-bottom: 70px;
-   margin-left: 20px;
+   margin-bottom: 80px;
+   
 }
 
 
