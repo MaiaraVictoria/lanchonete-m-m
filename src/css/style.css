@@ -20,7 +20,7 @@ main::after{
   
     display: flex;
     flex-direction: column;
-    min-height: 100vh;
+    min-height: 120vh;
     justify-content: space-evenly;
 }
 
@@ -28,15 +28,15 @@ main::after{
 .informacoes .logo{
    max-width: 200px;
    filter: invert(1);
-   margin-bottom: 90px;
+   margin-bottom: 89px;
    margin-left: 20px;
 }
 
 
 .informacoes .descricao{
-    width: 49%;
+    width: 45%;
     
-    font-size: 24px;
+    font-size: 20px;
     color: rgb(225, 228, 20);
     margin-left: 33px;
     
