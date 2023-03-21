@@ -26,7 +26,7 @@ main::after{
 
 
 .informacoes .logo{
-   max-width: 200px;
+   max-width: 198px;
    filter: invert(1);
    margin-bottom: 70px;
    margin-left: 20px;
@@ -55,7 +55,7 @@ main::after{
 .botao-carrossel .botao{
     background-color: #ffffff;
     width: 15px;
-    height: 15px;
+    height: 10px;
     border-radius: 50%;
     border: 2px solid rgb(48, 28, 2);
     cursor: pointer;
